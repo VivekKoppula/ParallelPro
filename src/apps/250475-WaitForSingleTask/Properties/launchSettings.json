@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WaitForSingleTask": {
+      "commandName": "Project",
+      "commandLineArgs": "true"
+    }
+  }
+}

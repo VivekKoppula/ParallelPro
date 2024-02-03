@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PLinqOrdering": {
+      "commandName": "Project",
+      "commandLineArgs": "AsParallel"
+    }
+  }
+}

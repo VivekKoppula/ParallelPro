@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WaitAll": {
+      "commandName": "Project",
+      "commandLineArgs": "false"
+    }
+  }
+}

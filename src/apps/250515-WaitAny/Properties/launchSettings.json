@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WaitAny": {
+      "commandName": "Project",
+      "commandLineArgs": "true"
+    }
+  }
+}

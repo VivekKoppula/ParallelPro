@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ParallelOptionsStopBreakExThree": {
+      "commandName": "Project",
+      "commandLineArgs": "UseBreak"
+    }
+  }
+}
